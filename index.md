@@ -3,6 +3,7 @@
 1. Dykas, Felicity
 2. Kleekamp, Jessica
 3. Sprague, Evan
-4. Sprochi, Amanda 
+4. Sprochi, Amanda
+5. Sorensen, Chris
 
 testing
